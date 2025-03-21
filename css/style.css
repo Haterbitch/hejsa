@@ -1,3 +1,9 @@
-/*
- * Write your own styles in this file
- */
+.row div  {
+    background-color: #0dcaf0;
+    color: black;
+    padding-bottom: .75rem;
+    padding-top: .75rem;
+    border: 1px solid#1a1d20;
+
+}
+
